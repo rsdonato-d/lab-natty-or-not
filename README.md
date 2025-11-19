@@ -1,7 +1,7 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ## 📒 Descrição
-O projeto foi fazer a restauração de um foto fisica antinga com sinais de degradação, rasurada, amasssada e riscada.
+Projeto de restauração de uma foto fisica antiga com sinais de degradação pelo tempo, rasurada, amasssada e riscada.
 
 ## 🤖 Tecnologias Utilizadas
 1 - Utilizei primeiramente o google fotos para digitalizar a foto fisica.
